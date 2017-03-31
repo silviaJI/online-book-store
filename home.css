@@ -1,0 +1,9 @@
+.form-group{
+	width:50%;
+	margin:auto;
+}
+input{
+   border:0px;
+   background-color:#545652;
+   color:white;
+}
